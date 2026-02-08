@@ -4,11 +4,11 @@ Un jeu ou vous incarnez un mauvais mage et explorez un univers magique rempli de
 
 ## Clone le répo
 Pour récupérer les fichiers du projet :
+
 Avec HTTPS :
-
 - git clone https://github.com/Chrystoval1/Mage.exe.git
-Avec SSH : 
 
+Avec SSH : 
 - git clone git@github.com:Chrystoval1/Mage.exe.git
 
 Puis entre dans le dossier :
