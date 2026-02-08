@@ -2,6 +2,15 @@
 
 Un jeu ou vous incarnez un mauvais mage et explorez un univers magique rempli de sorts, et il faut allez chercher le sort ultime.
 
+## Clone le répo
+Pour récupérer les fichiers du projet :
+Avec HTTPS :
+- git clone https://github.com/Chrystoval1/Mage.exe.git
+Avec SSH : 
+- git clone git@github.com:Chrystoval1/Mage.exe.git
+Puis entre dans le dossier :
+- cd Mage.exe
+
 ## Téléchargement
 
 Téléchargez le jeu ici :
@@ -10,12 +19,13 @@ Téléchargez le jeu ici :
 > Fichier : **Mage.exe.zip** (environ 3.9 GB)
 
 ## Installation
-
+Si télécharger avec Go File: 
 1. Téléchargez le fichier depuis le lien ci-dessus.
 2. Décompressez **Mage.exe.zip** avec WinRAR, 7-Zip ou un outil similaire.
 3. Ouvrez le dossier extrait.
-4. Lancez **Mage.exe**.
-5. Bon jeu !
+Sinon:
+5. Lancez **Mage.exe**.
+6. Bon jeu !
 
 ## Configuration recommandée
 
