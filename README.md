@@ -26,6 +26,7 @@ Si télécharger avec Go File:
 1. Téléchargez le fichier depuis le lien ci-dessus.
 2. Décompressez **Mage.exe.zip** avec WinRAR, 7-Zip ou un outil similaire.
 3. Ouvrez le dossier extrait.
+
 Sinon:
 5. Lancez **Mage.exe**.
 6. Bon jeu !
