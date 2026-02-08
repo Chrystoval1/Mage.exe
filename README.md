@@ -8,6 +8,7 @@ Avec HTTPS :
 - git clone https://github.com/Chrystoval1/Mage.exe.git
 Avec SSH : 
 - git clone git@github.com:Chrystoval1/Mage.exe.git
+
 Puis entre dans le dossier :
 - cd Mage.exe
 
