@@ -28,6 +28,7 @@ Si télécharger avec Go File:
 3. Ouvrez le dossier extrait.
 
 Sinon:
+
 5. Lancez **Mage.exe**.
 6. Bon jeu !
 
